@@ -16,13 +16,13 @@ function App() {
     <Navbar />
     <Hero />
     <CardSec />
-    {/* <Realator />
+    <Realator />
     <ImgGrid />
     <GridCont />
     <Grid />
     <Testimony />
     <Subscribe />
-    <Footer /> */}
+    <Footer /> 
    </div>
   )
 }
