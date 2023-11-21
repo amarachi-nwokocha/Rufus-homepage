@@ -1,7 +1,7 @@
 import gridImg from "../assets/gridImg.svg";
 const Grid = () => {
   return (
-    <div className="max-w-[1140px] w-full mx-40 my-20">
+    <div className="max-w-[1140px] w-full mx-20 my-20">
       <div className="mb-20">
     
         <h1 className="text-white text-center text-4xl font-bold">
