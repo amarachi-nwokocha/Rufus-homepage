@@ -1,5 +1,5 @@
 
-import work from '../assets/iconWork.svg'
+import work from '../assets/IconWork.svg'
 import idea from '../assets/iconIdea.svg'
 import coin from '../assets/iconCoin.svg'
 const CardSec = () => {
