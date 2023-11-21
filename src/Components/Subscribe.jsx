@@ -3,7 +3,7 @@ import HeroImg from "../assets/bgImg.svg";
 const Subscribe = () => {
   return (
     <div
-      className="h-[70vh]"
+      className="h-[70vh] max-w-full w-full"
       style={{
         background: `url(${HeroImg})`,
         backgroundPosition: "bottom",
